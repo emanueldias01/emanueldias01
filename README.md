@@ -12,6 +12,18 @@
 
 <p align="left">👨‍🎓 Information Systems Bacharelor(1/8)<br>🖥️Experience with Java and Kotlin in Backend applications<br>📚 I'm currently learning Native Aplications Android with Kotlin (Jetpack Compose)</p>
 
+###
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/emanuel-ara%C3%BAjo-119b1325a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+###
+
+
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueldias01&show_icons=true&theme=gotham)
 
