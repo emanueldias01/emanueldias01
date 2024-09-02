@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Information Systems Bacharelor(1/8)<br>📚 I'm currently learning Native Aplications Android with Kotlin (Jetpack Compose)</p>
+<p align="left">👨‍🎓 Information Systems Bacharelor(1/8)<br>🖥️Experience with Java and Kotlin in Backend applications<br>📚 I'm currently learning Native Aplications Android with Kotlin (Jetpack Compose)</p>
 
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueldias01&show_icons=true&theme=gotham)
