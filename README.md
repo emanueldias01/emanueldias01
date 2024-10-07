@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Information Systems Bacharelor(1/8)<br>🖥️Experience with Java and Kotlin in Backend applications<br>
+<p align="left">👨‍🎓 Information Systems Bacharelor(1/8)<br>🖥️Experience with Java in Backend applications<br>
 
 ###
 ###
@@ -37,7 +37,6 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
 ###
