@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Information Systems Bacharelor(2/8)<br>🖥️Experience with Java in Backend applications<br><br>I'm currently studying Go📚
+<p align="left">👨‍🎓 Information Systems Bacharelor(2/8)<br>🖥️Experience with Java in Backend applications<br><br>📚I'm currently studying Go<br>
 
 ###
 ###
