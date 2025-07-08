@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Information Systems Bacharelor(3/8)<br>🖥️Experience with Java in Backend applications<br>📚I'm currently studying Javascript/NodeJs/ExpressJs/React<br>
+<p align="left">👨‍🎓 Information Systems Bacharelor(3/8)<br>🖥️Experience with Java in Backend applications<br>📚I'm currently studying Embedded Systems<br>
 
 ###
 ###
@@ -26,3 +26,6 @@
 
 
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=emanueldias01&show_icons=true&theme=gotham)
+<a href="https://github.com/emanueldias01" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldias01&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</a>
