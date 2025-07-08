@@ -29,3 +29,35 @@
 <a href="https://github.com/emanueldias01" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueldias01&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </a>
+
+
+
+###
+###
+<div>
+  <h1>Programing Languages</h1>
+  
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  &nbsp;&nbsp;
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />   
+  &nbsp;&nbsp;
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  
+</div>
+
+###
+###
+
+<div>
+  <h1>Frameworks</h1>
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  &nbsp;&nbsp;
+  <img width=50 src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/>
+  &nbsp;&nbsp;
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  &nbsp;&nbsp;
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+</div>
+
+          
