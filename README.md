@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Information Systems Bacharelor(3/8)<br>🖥️Experience with Java in Backend applications<br>📚I'm currently studying Embedded Systems<br>
+<p align="left">👨‍🎓 Information Systems Bacharelor(3/8)<br>🖥️Experience with Java in Backend applications<br>📚I'm currently studying Machine Learning<br>
 
 ###
 ###
