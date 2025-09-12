@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Information Systems Bacharelor(4/8)<br>🖥️Experience in Backend applications<br>📚I'm currently studying Rust<br>
+<p align="left">👨‍🎓 Information Systems Bacharelor(4/8)<br>🖥️Experience in Backend applications<br>
 
 ###
 ###
