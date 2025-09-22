@@ -19,9 +19,9 @@
   
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   &nbsp;&nbsp;
-  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />   
-  &nbsp;&nbsp;
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  &nbsp;&nbsp;
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />   
   &nbsp;&nbsp;
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   &nbsp;&nbsp;
@@ -34,15 +34,19 @@
 ###
 
 <div>
+  
   <h1>Frameworks</h1>
+  
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  &nbsp;&nbsp;
+  <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
   &nbsp;&nbsp;
   <img width=50 src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/>
   &nbsp;&nbsp;
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
   &nbsp;&nbsp;
   <img width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-
+  
 </div>
 
           
