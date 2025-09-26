@@ -56,7 +56,7 @@
 
 <ul align="left">
   <li>Development of intelligent agents for WhatsApp and enterprise automation</li>
-  <li>Integration with <strong>CrewAI,OpenAI Agents SDK, Anthropic MCP SDK, Google Agents SDK</strong></li>
+  <li>Integration with <strong>CrewAI, OpenAI Agents SDK, Anthropic MCP SDK, Google Agents SDK</strong></li>
   <li>Experience with <strong>multi-agent orchestration, MCP servers (Client/Server SSE)</strong> and enterprise tool integrations</li>
   <li>Focus on applying LLMs to solve real-world business challenges</li>
 </ul>
