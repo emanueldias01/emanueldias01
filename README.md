@@ -15,7 +15,6 @@
 💡 Co-founder & CTO at <strong>MindOps</strong>, leading the design and development of <strong>AI-powered multi-agent systems</strong> for organizations <br>
 🤖 Experienced in building <strong>intelligent agents</strong> that connect with external systems, automate processes and generate business value <br>
 🖥️ Strong background in <strong>Backend development, distributed systems and microservices</strong> <br>
-🚀 Skilled in <strong>Java (Spring AI), Go (GinGonic), Python (FastAPI), TypeScript/JavaScript (Express.js, React)</strong> <br>
 📦 Expertise with <strong>Docker, Redis, PostgreSQL, MongoDB</strong> and cloud-native architectures <br>
 </p>
 
