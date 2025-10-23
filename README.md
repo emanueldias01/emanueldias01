@@ -66,5 +66,5 @@
 <h2 align="left">Where to find me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/emanueldias01/" target="_blank">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/emanueldias01/" target="_blank">LinkedIn</a>
 </p>
