@@ -12,7 +12,7 @@
 
 <p align="left">
 🎓 Information Systems undergraduate (4/8) at Universidade Federal do Ceará (UFC) <br>
-💡 Co-founder & CTO at <strong>Cortexis</strong>, leading the design and development of <strong>AI-powered multi-agent systems</strong> for organizations <br>
+💡 Co-founder at <strong>Cortexis</strong>, leading the design and development of <strong>AI-powered multi-agent systems</strong> for organizations <br>
 🤖 Experienced in building <strong>intelligent agents</strong> that connect with external systems, automate processes and generate business value <br>
 🖥️ Strong background in <strong>Backend development, distributed systems and microservices</strong> <br>
 📦 Expertise with <strong>Docker, Redis, PostgreSQL, MongoDB</strong> and cloud-native architectures <br>
