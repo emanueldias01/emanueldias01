@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Emanuel Dias and I'm a <strong>Software & AI Engineer</strong> specialized in <strong>Multi-Agent Systems</strong>, Backend Development and Intelligent Integrations.</p>
+<p align="left">My name is Emanuel Dias and I'm a <strong>Software Engineer</strong> specialized in <strong>Backend Development</strong> and Intelligent Integrations.</p>
 
 ###
 
