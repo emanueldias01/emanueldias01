@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Engenheiro de Software</strong>, especializado em <strong>Desenvolvimento Backend</strong> e Integrações Inteligentes.
+Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Desenvolvedor Backend</strong>
 </p>
 
 ###
