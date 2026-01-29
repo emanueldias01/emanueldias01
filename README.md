@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Desenvolvedor Backend</strong>
+Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Desenvolvedor FullStack</strong>
 </p>
 
 ###
