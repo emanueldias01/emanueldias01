@@ -16,6 +16,7 @@ Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Desenvolvedor FullStack<
 🎓 Graduando em <strong>Sistemas de Informação</strong> (5/8) pela Universidade Federal do Ceará (UFC) <br>
 🖥️ Forte experiência em <strong>desenvolvimento Backend, sistemas distribuídos e microsserviços</strong> <br>
 📦 Expertise em <strong>Docker, Redis, PostgreSQL, MongoDB</strong> e arquiteturas cloud-native <br>
+🤖 Fundador e Desenvolvedor do <a href="https://www.llmind.com.br">LLMind</a>
 </p>
 
 ###
