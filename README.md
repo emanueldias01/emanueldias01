@@ -29,8 +29,6 @@ Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Desenvolvedor FullStack<
   &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   &nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-  &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
