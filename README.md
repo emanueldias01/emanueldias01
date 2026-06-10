@@ -37,6 +37,8 @@ Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Desenvolvedor FullStack<
   &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+  &nbsp;&nbsp;
 </div>
 
 ###
@@ -52,6 +54,8 @@ Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Desenvolvedor FullStack<
   &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
   &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  &nbsp;&nbsp; 
 </div>
 
 ###
