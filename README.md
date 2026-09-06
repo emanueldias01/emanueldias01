@@ -13,7 +13,7 @@ Meu nome é <strong>Emanuel Dias</strong> e sou <strong>Desenvolvedor FullStack<
 ###
 
 <p align="left">
-🎓 Graduando em <strong>Sistemas de Informação</strong> (5/8) pela Universidade Federal do Ceará (UFC) <br>
+🎓 Graduando em <strong>Sistemas de Informação</strong> (6/8) pela Universidade Federal do Ceará (UFC) <br>
 🖥️ Forte experiência em <strong>desenvolvimento Backend, sistemas distribuídos e microsserviços</strong> <br>
 📱 Expertise em <strong>Desenvolvimento Mobile</strong><br>
 🎉 Co-fundador e Desenvolvedor do <a href="https://partyhost.com.br">PartyHost</a> <br>
