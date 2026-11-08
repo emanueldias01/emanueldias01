@@ -15,7 +15,7 @@ My name is <strong>Emanuel Dias</strong> and I'm a <strong>Software Engineer</st
 <p align="left">
 🎓 Bachelor's student in <strong>Information Systems</strong> (6/8) at the Federal University of Ceará (UFC) <br>
 🖥️ Strong experience in <strong>Backend Development, distributed systems, and microservices</strong> <br>
-📱 Expertise in <strong>Mobile Development</strong><br>
+🤖 Practical experience in <strong>Machine Learning</strong><br>
 🎉 Co-founder and Developer of <a href="https://partyhost.com.br">PartyHost</a> <br>
 🧑‍💻 Android Developer at InsightLab <br>
 </p>
@@ -56,6 +56,44 @@ My name is <strong>Emanuel Dias</strong> and I'm a <strong>Software Engineer</st
   &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   &nbsp;&nbsp; 
+</div>
+
+<h2 align="left">Data Science & Machine Learning</h2>
+
+<div>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" />
+  &nbsp;&nbsp;
+</div>
+
+<h2 align="left">Databases & Infrastructure</h2>
+
+<div>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+  &nbsp;&nbsp;
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+  &nbsp;&nbsp;
 </div>
 
 ###
