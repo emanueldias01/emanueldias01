@@ -17,7 +17,7 @@ My name is <strong>Emanuel Dias</strong> and I'm a <strong>Software Engineer</st
 🖥️ Strong experience in <strong>Backend Development, distributed systems, and microservices</strong> <br>
 🤖 Practical experience in <strong>Machine Learning</strong><br>
 🎉 Co-founder and Developer of <a href="https://partyhost.com.br">PartyHost</a> <br>
-🧑‍💻 Android Developer at InsightLab <br>
+🧑‍💻 Fullstack Developer at InsightLab <br>
 </p>
 
 ###
