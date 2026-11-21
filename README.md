@@ -33,11 +33,7 @@ My name is <strong>Emanuel Dias</strong> and I'm a <strong>Software Engineer</st
   &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   &nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   &nbsp;&nbsp;
 </div>
 
@@ -54,11 +50,9 @@ My name is <strong>Emanuel Dias</strong> and I'm a <strong>Software Engineer</st
   &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
   &nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  &nbsp;&nbsp; 
 </div>
 
-<h2 align="left">Data Science & Machine Learning</h2>
+<h2 align="left">Machine Learning</h2>
 
 <div>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
@@ -66,10 +60,6 @@ My name is <strong>Emanuel Dias</strong> and I'm a <strong>Software Engineer</st
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
   &nbsp;&nbsp;
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
-  &nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-  &nbsp;&nbsp;
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" />
   &nbsp;&nbsp;
 </div>
 
