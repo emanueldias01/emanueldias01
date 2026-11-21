@@ -98,9 +98,10 @@ My name is <strong>Emanuel Dias</strong> and I'm a <strong>Software Engineer</st
 
 <h2 align="left">Cloud Computing</h2>
 <div>
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
+&nbsp;&nbsp;
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
 &nbsp;&nbsp;
-<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" />
             
 </div>
 
